@@ -5,6 +5,8 @@
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioFreire203&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioFreire203)](https://github.com/AntonioFreire203/github-readme-stats)
+
 ## Tecnologias
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
